@@ -1,0 +1,20 @@
+{
+  "name": "key-js",
+  "version": "0.1.0",
+  "main": "index.js", 
+  "author": "Greg McLeod <cleod9@gmail.com>",
+  "description": "Library for JavaScript Key Code Constants based on AS2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cleod9/key-js"
+  },
+  "keywords": [
+    "js",
+    "key",
+    "constants",
+    "code",
+    "as2",
+    "as3"
+  ],
+  "license": "MIT"
+}
