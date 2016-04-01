@@ -1,6 +1,8 @@
 # key-js
 
-Simple library for JavaScript key code constants and a utility to check key press state. It is a port of my [KeyAS3](https://github.com/Cleod9/KeyAS3) library (which was originally based on the `Key` class from the olden days of ActionScript 2.0)
+Simple library for JavaScript key code constants and a utility to check key press state. It is a port of my [KeyAS3](https://github.com/Cleod9/KeyAS3) library.
+
+Many existing libraries expose key code values in strange ways (such as requiring function calls that took string values). This library provides a simple static object containing the key codes, and comes with an additional utility function for checking the pressed state of keys. The API is heavily influenced by  the `Key` class from the olden days of ActionScript 2.0.
 
 ## Usage
 
