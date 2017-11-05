@@ -1,6 +1,6 @@
 {
   "name": "key-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "key.js", 
   "author": "Greg McLeod <cleod9@gmail.com>",
   "description": "Simple library for JavaScript key code constants and key press state",

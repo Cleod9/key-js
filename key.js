@@ -169,7 +169,7 @@
     if (Key.debug) {
       console.log('Target received focus');
     }
-  }
+  };
 
   /**
    * Starts capturing keyboard inputs from the supplied DOM object that currently has focus. (Defaults to the window if not specified)
