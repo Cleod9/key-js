@@ -164,7 +164,7 @@
   /**
    * Removes the disabled flag so that the object listening for key presses can receive events again once it regains focus
    */
-  _restartKeys = function (e) {
+  var _restartKeys = function (e) {
     _disabled = false;
     if (Key.debug) {
       console.log('Target received focus');
